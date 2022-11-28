@@ -10,3 +10,6 @@ The files are organised into three folders:
 
 
 The predictor machine learning code is currently hosted at: https://github.com/micrisor/NAT-ML
+
+The digitised H&E images are currently hosted at:
+https://zenodo.org/record/6337925#.Y30d1y-l1Ls
